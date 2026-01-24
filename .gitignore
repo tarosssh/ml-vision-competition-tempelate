@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Data
+data/
+raw_data/
+
+# Model weights & artifacts
+*.pth
+*.pt
+*.tar.gz
+*.npy
+
+# Outputs
+*.png
+*.jpg
+*.jpeg
+submission.csv
+
+# OS
+.DS_Store
+Thumbs.db
